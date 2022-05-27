@@ -1,0 +1,9 @@
+id: 45e7e9e0638546da9e062ba51e7d81cb
+annotation_type: index
+revision: '00001'
+annotations:
+  14b4ad5158e44d629174e37d66372cf7:
+    base: fAFC3.txt
+    span:
+      start: 0
+      end: 1646
